@@ -7,6 +7,7 @@ Mac OSX 10.15.7+ 系统下安装delve其实并不困难，我们无需安装Home
 本文假设你已经具备自己安装好golang环境并启用go mod的能力
 
 笔者环境如下：
+
 go version go1.15.3 darwin/amd64
 
 OSX 10.15.7
